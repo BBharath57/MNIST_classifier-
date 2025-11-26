@@ -1,7 +1,6 @@
 streamlit
-torch==2.2.0+cpu
-torchvision==0.17.0+cpu
--f https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.1
+torchvision==0.15.2
+numpy
 Pillow
 matplotlib
-numpy
